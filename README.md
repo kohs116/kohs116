@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### 🌱 I’m currently learning python
+### 📫 How to reach me: kohs1116@gmail.com
 <!--
 **kohs116/kohs116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
