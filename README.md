@@ -1,7 +1,5 @@
 ## Hey, I'm Huisu 👋
 
-Backend Developer @ HDC Labs
-
 ### 🛠 Tech Stack
 
 <p>
