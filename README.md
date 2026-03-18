@@ -17,7 +17,7 @@
 
 ### 📊 GitHub Stats
 
-![kohs116's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohs116&show_icons=true&theme=tokyonight&hide_border=true)
+![kohs116's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohs116&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ### 📫 Contact
 
